@@ -1,12 +1,12 @@
-# iHealth
+# Intelli-Health
 
-iHealth is an innovative mobile application designed to predict the risk of heart strokes using real-time data from fitness trackers and advanced machine learning algorithms. This project aims to provide early detection and timely alerts to users, significantly improving their chances of survival and recovery.
+Intelli-Health is an innovative mobile application designed to predict the risk of heart strokes using real-time data from fitness trackers and advanced machine learning algorithms. This project aims to provide early detection and timely alerts to users, significantly improving their chances of survival and recovery.
 
 ## Project Purpose
 
 In Africa, the incidence of stroke is rising, with stroke being a leading cause of death and disability. According to the World Health Organization (WHO), Africa has one of the highest stroke mortality rates globally, with an estimated annual incidence of 316 per 100,000 population. The lack of early detection and prevention strategies contributes significantly to these high rates, making timely identification and intervention crucial.
 
-iHealth leverages widely available fitness trackers to collect longitudinal data on heart rate and blood pressure in real-time. This data is connected to a machine learning model trained to identify and alert users of sudden extreme changes, thereby enhancing early detection and intervention.
+Intelli-Health leverages widely available fitness trackers to collect longitudinal data on heart rate and blood pressure in real-time. This data is connected to a machine learning model trained to identify and alert users of sudden extreme changes, thereby enhancing early detection and intervention.
 
 
 ## Features and Functionalities
@@ -75,5 +75,5 @@ iHealth leverages widely available fitness trackers to collect longitudinal data
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Muhammadurasheed/iHealth.git
+   git clone https://github.com/Muhammadurasheed/Intelli-Health.git
    cd i_health

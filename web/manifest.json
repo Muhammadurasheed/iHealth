@@ -1,6 +1,6 @@
 {
-    "name": "i_health",
-    "short_name": "i_health",
+    "name": "intelli_health",
+    "short_name": "intelli_health",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
