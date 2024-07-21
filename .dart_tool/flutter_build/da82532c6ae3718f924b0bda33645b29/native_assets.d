@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\Documents\\i_health\\.dart_tool\\flutter_build\\da82532c6ae3718f924b0bda33645b29\\native_assets.yaml: 
